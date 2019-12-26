@@ -1,2 +1,3 @@
 NO.REG : 1820010213
 Nama : Waskito
+Jurusan: TI - SE
